@@ -1,0 +1,13 @@
+{
+    "delay": 3,
+    "ignore": [],
+    "verbose": false,
+    "execMap": {
+        "BAK": "node ./index.js"
+    },
+    "watch": [
+        "C:/TeklaStructuresModels"
+    ],
+    "backup": "C:/TeklaBackup",
+    "ext": "BAK"
+}
